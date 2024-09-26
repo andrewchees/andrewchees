@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrewchees
 - 👀 I’m interested in telling cheesy jokes
 - 🌱 I’m currently learning Terraform and general cloud engineering best practices
-- 💞️ I’m looking to collaborate on anythin and everything
+- 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me on Slack or by emailing andrew@cloudandthings.io
 - ⚡ Fun fact: I regularly research new jokes to tell
 
